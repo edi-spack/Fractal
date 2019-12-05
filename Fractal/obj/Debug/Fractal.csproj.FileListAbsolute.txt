@@ -1,0 +1,9 @@
+C:\Users\edisp\source\repos\Fractal\Fractal\bin\Debug\Fractal.exe.config
+C:\Users\edisp\source\repos\Fractal\Fractal\bin\Debug\Fractal.exe
+C:\Users\edisp\source\repos\Fractal\Fractal\bin\Debug\Fractal.pdb
+C:\Users\edisp\source\repos\Fractal\Fractal\obj\Debug\Fractal.csprojAssemblyReference.cache
+C:\Users\edisp\source\repos\Fractal\Fractal\obj\Debug\Fractal.Form1.resources
+C:\Users\edisp\source\repos\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+C:\Users\edisp\source\repos\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.cache
+C:\Users\edisp\source\repos\Fractal\Fractal\obj\Debug\Fractal.exe
+C:\Users\edisp\source\repos\Fractal\Fractal\obj\Debug\Fractal.pdb
