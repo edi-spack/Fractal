@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Fractal
@@ -118,9 +112,6 @@ namespace Fractal
                 }
             }
             g.DrawImage(bm, 0, 0, w, h);
-
-            //g.DrawLine(new Pen(Color.Red), 0, h / 2, w, h / 2);
-            //g.DrawLine(new Pen(Color.Red), w / 2, 0, w / 2, h);
         }
 
         private int IsInSet(double c_re, double c_im)
